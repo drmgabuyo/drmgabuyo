@@ -42,9 +42,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  
-<a href="https://twitter.com/daiyna_">
-    <img src="https://img.shields.io/badge/twitter-000000?style=for-the-badge&logo=x&logoColor=white" style="max-width: 100%;">
- </a>
 
 
 
