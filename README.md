@@ -40,9 +40,31 @@
 <!-- Contact -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://t.me/dynagabuyo" target="blank"><img align="center" src="https://github.com/drmgabuyo/drmgabuyo/assets/147422759/bbc49025-8860-4ea7-9578-c9b98acd9888" alt="https://t.me/dynagabuyo" height="30" width="40" /></a>
-<a href="https://twitter.com/daiyna_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="daiyna_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gabuyo-dyna-rose-m-a808a2266/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabuyo-dyna-rose-m-a808a2266/" height="30" width="40"/></a>
+ 
+<a href="https://twitter.com/daiyna_">
+    <img src="https://img.shields.io/badge/twitter-000000?style=for-the-badge&logo=x&logoColor=white" style="max-width: 100%;">
+ </a>
+
+
+
+
+
+<a href="mailto: drmgabuyo@gmail.com">
+    <img src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="Website" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="max-width: 100%;">
+ </a>
+
+<a href="https://t.me/dynagabuyo">
+        <img src="https://camo.githubusercontent.com/cf4ed981404024c1adfc79d5575c4edf1836c4fe36b24b03383ece888cef7e29/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d3243413545303f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d266c6f676f436f6c6f723d7768697465" alt="Telegram" data-canonical-src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" style="max-width: 100%;">
+    </a>
+
+     
+<a href="https://www.linkedin.com/in/gabuyo-dyna-rose-m-a808a2266/">
+                <img src="https://camo.githubusercontent.com/7e1a1a039c75a7c4d2a91d7f97bf0a1c2adcf7cb49b7dbbfc02963a4f9fdaca4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
+    </a>
+
+
+
+
  
 </p>
 
@@ -80,7 +102,6 @@
 <hr/>
 
 
-![Telegram_logo_PNG2](https://github.com/drmgabuyo/drmgabuyo/assets/147422759/bbc49025-8860-4ea7-9578-c9b98acd9888)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=drmgabuyo&show_icons=true&locale=en&layout=compact" alt="drmgabuyo" /></p>
 
