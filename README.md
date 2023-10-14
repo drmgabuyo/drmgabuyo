@@ -4,7 +4,6 @@
 <br/>
 
 <!-- Social badges section -->
-
 <p align="center">
   <a href="https://github.com/drmgabuyo?tab=stars">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/drmgabuyo?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
@@ -13,13 +12,9 @@
 
 <a href="https://github.com/DenverCoder1/Simple-View-Counter">
   <img src="https://komarev.com/ghpvc/?username=drmgabuyo&label=Profile%20views&color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Profile Views&logoColor=white" alt="drmgabuyo" /> 
-
- 
 </p>
 
 <br/>
-
-
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -27,8 +22,6 @@
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/0f2df9c6430300192232520a10bc3f09066cee3c6f1205da8490ac2b1d69d9e5/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966">
-
-
 
 - 🌱 I’m currently learning **Laravel, Node.js**
 
@@ -40,11 +33,17 @@
 
 <br/>
 <br/>
+<br/>
+<br/>
 <hr/>
+
+<!-- Contact -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://t.me/dynagabuyo" target="blank"><img align="center" src="https://github.com/drmgabuyo/drmgabuyo/assets/147422759/bbc49025-8860-4ea7-9578-c9b98acd9888" alt="https://t.me/dynagabuyo" height="30" width="40" /></a>
 <a href="https://twitter.com/daiyna_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="daiyna_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gabuyo-dyna-rose-m-a808a2266/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabuyo-dyna-rose-m-a808a2266/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/gabuyo-dyna-rose-m-a808a2266/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabuyo-dyna-rose-m-a808a2266/" height="30" width="40"/></a>
+ 
 </p>
 
 <hr/>
@@ -81,6 +80,7 @@
 <hr/>
 
 
+![Telegram_logo_PNG2](https://github.com/drmgabuyo/drmgabuyo/assets/147422759/bbc49025-8860-4ea7-9578-c9b98acd9888)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=drmgabuyo&show_icons=true&locale=en&layout=compact" alt="drmgabuyo" /></p>
 
