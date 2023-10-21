@@ -10,9 +10,7 @@
   <a href="https://github.com/drmgabuyo?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/drmgabuyo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 
-<a href="https://github.com/DenverCoder1/Simple-View-Counter">
-  <img src="https://komarev.com/ghpvc/?username=drmgabuyo&label=Profile%20views&color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Profile Views&logoColor=white" alt="drmgabuyo" /> 
-</p>
+
 
 <br/>
 <p align="center">
