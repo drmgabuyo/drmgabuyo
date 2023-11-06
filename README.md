@@ -12,7 +12,7 @@
 </p>
 <br/>
 <br/>
-
+<hr/>
 
 <!-- Contact -->
 <h3 align="left">Connect with me:</h3>
