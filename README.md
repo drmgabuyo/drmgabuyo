@@ -82,6 +82,10 @@
             <th>Certifications</th>
             <th>Date Obtained</th>
         </tr>
+  <tr>
+            <td><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=D240DC5AE864459BF673D9E0CEC7C7BD7800F08ABF1E6D20E5E9FA01754933F2">Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate</a></td>
+            <td>November 5, 2023</td>
+        </tr>
         <tr>
             <td><a href="https://www.datacamp.com/statement-of-accomplishment/course/7b9ab150dd9cb839d2331304602ddf8fe116c092?share=true">Understanding Data Engineering</a></td>
             <td>April 26, 2022</td>
