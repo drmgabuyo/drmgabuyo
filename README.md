@@ -82,8 +82,13 @@
             <th>Certifications</th>
             <th>Date Obtained</th>
         </tr>
+
   <tr>
             <td><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=D240DC5AE864459BF673D9E0CEC7C7BD7800F08ABF1E6D20E5E9FA01754933F2">Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate</a></td>
+            <td>November 5, 2023</td>
+        </tr>
+  <tr>
+            <td><a href="https://courses.cognitiveclass.ai/certificates/5aec7e22a21b458cba6cc28540c542ab">SQL and Relational Databases 101</a></td>
             <td>November 5, 2023</td>
         </tr>
         <tr>
