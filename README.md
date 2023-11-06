@@ -2,36 +2,17 @@
 <h1 align="center">Hi 👋, I'm Dyna Rose Gabuyo</h1>
 
 <br/>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/0f2df9c6430300192232520a10bc3f09066cee3c6f1205da8490ac2b1d69d9e5/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966">
 
-<!-- Social badges section -->
-<p align="center">
-  <a href="https://github.com/drmgabuyo?tab=stars">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/drmgabuyo?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/drmgabuyo?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/drmgabuyo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 
-<a href="https://komarev.com/ghpvc/?username=drmgabuyo&label=Profile%20views&color=0e75b6&style=flat">
- <img src="https://komarev.com/ghpvc/?username=drmgabuyo&label=Profile%20views&color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Profile_Views&logoColor=white" alt="drmgabuyo" /> 
-</p>
-
-<br/>
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=I'm a %20web%20developer.%20%20;I %20specialized%20in%20creating%20;interactive%20and%20;user-friendly %20websites%20;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
-
-
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/0f2df9c6430300192232520a10bc3f09066cee3c6f1205da8490ac2b1d69d9e5/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966">
-
-- 🌱 I’m currently learning **Laravel, Node.js**
-
-- 💬 Ask me about **PHP, Java, Phyton**
-
-- 📫 How to reach me **drmgabuyo@gmail.com**
-
-- ⚡ Fun fact **I've got espresso coursing through my veins! ☕💻**
-
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
@@ -51,10 +32,6 @@
 <a href="mailto: drmgabuyo@gmail.com">
     <img src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="Website" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="max-width: 100%;">
  </a>
-
-<a href="https://t.me/dynagabuyo/">
-        <img src="https://camo.githubusercontent.com/cf4ed981404024c1adfc79d5575c4edf1836c4fe36b24b03383ece888cef7e29/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d3243413545303f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d266c6f676f436f6c6f723d7768697465" alt="Telegram" data-canonical-src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" style="max-width: 100%;">
-    </a>
 
      
 <a href="https://www.linkedin.com/in/gabuyo-dyna-rose-m-a808a2266/">
