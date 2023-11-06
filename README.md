@@ -1,16 +1,16 @@
 ![banner (1)](https://github.com/drmgabuyo/drmgabuyo/assets/147422759/6aa23acb-caf4-40e8-8e46-616a25ce8759)
 <h1 align="center">Hi 👋, I'm Dyna Rose Gabuyo</h1>
-
+<p align="center">
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=I'm a %20web%20developer.%20%20;I %20specialized%20in%20creating%20;interactive%20and%20;user-friendly %20websites%20;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 
 <br/>
 <img align="center" alt="Coding" width="400" src="https://camo.githubusercontent.com/0f2df9c6430300192232520a10bc3f09066cee3c6f1205da8490ac2b1d69d9e5/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966">`
-
+</p>
   
 <br/>
-<br/>
+
 <hr/>
 
 <!-- Contact -->
