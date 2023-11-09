@@ -62,6 +62,10 @@
             <td>November 2023</td>
         </tr>
         <tr>
+            <td><a href="https://www.datacamp.com/statement-of-accomplishment/course/4145f46ca8b0b21aab55eb8b7bb63a5ce30d5db6?raw=1">Understanding Data Science</a></td>
+            <td>November 2023</td>
+        </tr>
+        <tr>
             <td><a href="https://www.datacamp.com/statement-of-accomplishment/course/1fea0062b5a9739b15b850b64970d805ef19d658?raw=1">Understanding Machine Learning</a></td>
             <td>November 2023</td>
         </tr>
